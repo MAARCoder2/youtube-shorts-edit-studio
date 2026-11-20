@@ -1,0 +1,139 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: ShortsWord,DejaVu Sans,76,&H00FFFFFF,&H000B9EF5,&H000B0E14,&H88000000,-1,0,0,0,100,100,1.5,0,1,7,4,2,80,80,390,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.49,ShortsWord,,0,0,0,,{\c&H000B9EF5&\fscx110\fscy110\bord8}HI,{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:00.45,0:00:00.73,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}I'M{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}RAFI.
+Dialogue: 0,0:00:00.73,0:00:01.31,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}I'M {\c&H000B9EF5&\fscx110\fscy110\bord8}RAFI.{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:01.27,0:00:01.51,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}LET{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}ME
+Dialogue: 0,0:00:01.51,0:00:01.67,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}LET {\c&H0024BFFA&\fscx110\fscy110\bord8}ME{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:01.67,0:00:02.00,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}TELL{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}YOU
+Dialogue: 0,0:00:02.00,0:00:02.25,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}TELL {\c&H0024BFFA&\fscx110\fscy110\bord8}YOU{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:02.20,0:00:02.47,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}WHAT{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}I {\c&H00E8EEF5&}BUILT
+Dialogue: 0,0:00:02.47,0:00:02.60,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}WHAT {\c&H0024BFFA&\fscx110\fscy110\bord8}I{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}BUILT
+Dialogue: 0,0:00:02.60,0:00:02.93,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}WHAT {\c&H00E8EEF5&}I {\c&H000B9EF5&\fscx110\fscy110\bord8}BUILT{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:02.93,0:00:03.06,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}AT{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}MY {\c&H00E8EEF5&}CAMPUS.
+Dialogue: 0,0:00:03.06,0:00:03.19,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}AT {\c&H0024BFFA&\fscx110\fscy110\bord8}MY{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}CAMPUS.
+Dialogue: 0,0:00:03.19,0:00:03.58,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}AT {\c&H00E8EEF5&}MY {\c&H000B9EF5&\fscx110\fscy110\bord8}CAMPUS.{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:03.54,0:00:03.75,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}MY{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}FRIENDS {\c&H00E8EEF5&}FIROZ,
+Dialogue: 0,0:00:03.75,0:00:04.46,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}MY {\c&H0024BFFA&\fscx110\fscy110\bord8}FRIENDS{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}FIROZ,
+Dialogue: 0,0:00:04.46,0:00:04.96,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}MY {\c&H00E8EEF5&}FRIENDS {\c&H000B9EF5&\fscx110\fscy110\bord8}FIROZ,{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:04.96,0:00:05.47,ShortsWord,,0,0,0,,{\c&H000B9EF5&\fscx110\fscy110\bord8}MIRAZ{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}AND {\c&H00E8EEF5&}RAYHAN
+Dialogue: 0,0:00:05.47,0:00:05.78,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}MIRAZ {\c&H0024BFFA&\fscx110\fscy110\bord8}AND{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}RAYHAN
+Dialogue: 0,0:00:05.78,0:00:06.38,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}MIRAZ {\c&H00E8EEF5&}AND {\c&H000B9EF5&\fscx110\fscy110\bord8}RAYHAN{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:06.34,0:00:06.65,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}KEPT{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}SAYING {\c&H00E8EEF5&}TYPING
+Dialogue: 0,0:00:06.65,0:00:07.10,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}KEPT {\c&H0024BFFA&\fscx110\fscy110\bord8}SAYING{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}TYPING
+Dialogue: 0,0:00:07.10,0:00:07.56,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}KEPT {\c&H00E8EEF5&}SAYING {\c&H0024BFFA&\fscx110\fscy110\bord8}TYPING{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:07.56,0:00:08.16,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}PRACTICE{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}WAS {\c&H00E8EEF5&}BORING.
+Dialogue: 0,0:00:08.16,0:00:08.39,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}PRACTICE {\c&H0024BFFA&\fscx110\fscy110\bord8}WAS{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}BORING.
+Dialogue: 0,0:00:08.39,0:00:08.84,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}PRACTICE {\c&H00E8EEF5&}WAS {\c&H000B9EF5&\fscx110\fscy110\bord8}BORING.{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:08.81,0:00:09.14,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}THEY{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}DIDN'T {\c&H00E8EEF5&}WANNA
+Dialogue: 0,0:00:09.14,0:00:09.56,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}THEY {\c&H0024BFFA&\fscx110\fscy110\bord8}DIDN'T{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}WANNA
+Dialogue: 0,0:00:09.56,0:00:09.98,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}THEY {\c&H00E8EEF5&}DIDN'T {\c&H0024BFFA&\fscx110\fscy110\bord8}WANNA{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:09.98,0:00:10.15,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}DO{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}IT {\c&H00E8EEF5&}ANYMORE.
+Dialogue: 0,0:00:10.15,0:00:10.32,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}DO {\c&H0024BFFA&\fscx110\fscy110\bord8}IT{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}ANYMORE.
+Dialogue: 0,0:00:10.32,0:00:10.91,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}DO {\c&H00E8EEF5&}IT {\c&H000B9EF5&\fscx110\fscy110\bord8}ANYMORE.{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:10.86,0:00:11.21,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}THEN{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}I {\c&H00E8EEF5&}HAD
+Dialogue: 0,0:00:11.21,0:00:11.39,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}THEN {\c&H0024BFFA&\fscx110\fscy110\bord8}I{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}HAD
+Dialogue: 0,0:00:11.39,0:00:11.65,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}THEN {\c&H00E8EEF5&}I {\c&H0024BFFA&\fscx110\fscy110\bord8}HAD{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:11.65,0:00:11.82,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}AN{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}IDEA.
+Dialogue: 0,0:00:11.82,0:00:12.16,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}AN {\c&H000B9EF5&\fscx110\fscy110\bord8}IDEA.{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:12.13,0:00:12.50,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}TURN{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}TYPING {\c&H00E8EEF5&}INTO
+Dialogue: 0,0:00:12.50,0:00:13.06,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}TURN {\c&H000B9EF5&\fscx110\fscy110\bord8}TYPING{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}INTO
+Dialogue: 0,0:00:13.06,0:00:13.43,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}TURN {\c&H00E8EEF5&}TYPING {\c&H0024BFFA&\fscx110\fscy110\bord8}INTO{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:13.43,0:00:13.61,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}A{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}RACE.
+Dialogue: 0,0:00:13.61,0:00:13.99,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}A {\c&H000B9EF5&\fscx110\fscy110\bord8}RACE.{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:13.94,0:00:14.10,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}IF{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}YOU {\c&H00E8EEF5&}TYPE
+Dialogue: 0,0:00:14.10,0:00:14.33,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}IF {\c&H0024BFFA&\fscx110\fscy110\bord8}YOU{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}TYPE
+Dialogue: 0,0:00:14.33,0:00:14.65,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}IF {\c&H00E8EEF5&}YOU {\c&H0024BFFA&\fscx110\fscy110\bord8}TYPE{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:14.65,0:00:14.96,ShortsWord,,0,0,0,,{\c&H000B9EF5&\fscx110\fscy110\bord8}FAST{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}AND {\c&H00E8EEF5&}ACCURATE,
+Dialogue: 0,0:00:14.96,0:00:15.19,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}FAST {\c&H0024BFFA&\fscx110\fscy110\bord8}AND{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}ACCURATE,
+Dialogue: 0,0:00:15.19,0:00:15.82,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}FAST {\c&H00E8EEF5&}AND {\c&H000B9EF5&\fscx110\fscy110\bord8}ACCURATE,{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:15.82,0:00:16.13,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}YOUR{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}CAR
+Dialogue: 0,0:00:16.13,0:00:16.37,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}YOUR {\c&H0024BFFA&\fscx110\fscy110\bord8}CAR{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:16.37,0:00:16.76,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}MOVES{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}FORWARD.
+Dialogue: 0,0:00:16.76,0:00:17.30,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}MOVES {\c&H000B9EF5&\fscx110\fscy110\bord8}FORWARD.{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:17.26,0:00:17.82,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}FIRST{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}I {\c&H00E8EEF5&}MADE
+Dialogue: 0,0:00:17.82,0:00:18.05,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}FIRST {\c&H0024BFFA&\fscx110\fscy110\bord8}I{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}MADE
+Dialogue: 0,0:00:18.05,0:00:18.50,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}FIRST {\c&H00E8EEF5&}I {\c&H0024BFFA&\fscx110\fscy110\bord8}MADE{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:18.50,0:00:18.72,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}A{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}PLAN,
+Dialogue: 0,0:00:18.72,0:00:19.17,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}A {\c&H000B9EF5&\fscx110\fscy110\bord8}PLAN,{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:19.12,0:00:19.51,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}THEN{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}I {\c&H00E8EEF5&}USED
+Dialogue: 0,0:00:19.51,0:00:19.70,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}THEN {\c&H0024BFFA&\fscx110\fscy110\bord8}I{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}USED
+Dialogue: 0,0:00:19.70,0:00:20.08,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}THEN {\c&H00E8EEF5&}I {\c&H0024BFFA&\fscx110\fscy110\bord8}USED{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:20.08,0:00:20.27,ShortsWord,,0,0,0,,{\c&H000B9EF5&\fscx110\fscy110\bord8}AI{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}TO {\c&H00E8EEF5&}BREAK
+Dialogue: 0,0:00:20.27,0:00:20.46,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}AI {\c&H0024BFFA&\fscx110\fscy110\bord8}TO{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}BREAK
+Dialogue: 0,0:00:20.46,0:00:20.94,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}AI {\c&H00E8EEF5&}TO {\c&H0024BFFA&\fscx110\fscy110\bord8}BREAK{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:20.94,0:00:21.13,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}IT{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}INTO
+Dialogue: 0,0:00:21.13,0:00:21.51,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}IT {\c&H0024BFFA&\fscx110\fscy110\bord8}INTO{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:21.51,0:00:21.99,ShortsWord,,0,0,0,,{\c&H000B9EF5&\fscx110\fscy110\bord8}CLEAR{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}STEPS.
+Dialogue: 0,0:00:21.99,0:00:22.46,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}CLEAR {\c&H000B9EF5&\fscx110\fscy110\bord8}STEPS.{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:22.42,0:00:22.82,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}WITH{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}THAT {\c&H00E8EEF5&}HELP,
+Dialogue: 0,0:00:22.82,0:00:23.21,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}WITH {\c&H0024BFFA&\fscx110\fscy110\bord8}THAT{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}HELP,
+Dialogue: 0,0:00:23.21,0:00:23.60,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}WITH {\c&H00E8EEF5&}THAT {\c&H0024BFFA&\fscx110\fscy110\bord8}HELP,{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:23.57,0:00:23.73,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}I{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}BUILT
+Dialogue: 0,0:00:23.73,0:00:24.14,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}I {\c&H000B9EF5&\fscx110\fscy110\bord8}BUILT{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:24.14,0:00:24.39,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}THE{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}GAME.
+Dialogue: 0,0:00:24.39,0:00:24.73,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}THE {\c&H000B9EF5&\fscx110\fscy110\bord8}GAME.{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:24.69,0:00:25.06,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}SOON,{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}MY {\c&H00E8EEF5&}WHOLE
+Dialogue: 0,0:00:25.06,0:00:25.25,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}SOON, {\c&H0024BFFA&\fscx110\fscy110\bord8}MY{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}WHOLE
+Dialogue: 0,0:00:25.25,0:00:25.72,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}SOON, {\c&H00E8EEF5&}MY {\c&H000B9EF5&\fscx110\fscy110\bord8}WHOLE{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:25.72,0:00:26.19,ShortsWord,,0,0,0,,{\c&H000B9EF5&\fscx110\fscy110\bord8}CLASS{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}WAS {\c&H00E8EEF5&}PLAYING.
+Dialogue: 0,0:00:26.19,0:00:26.47,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}CLASS {\c&H0024BFFA&\fscx110\fscy110\bord8}WAS{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}PLAYING.
+Dialogue: 0,0:00:26.47,0:00:27.12,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}CLASS {\c&H00E8EEF5&}WAS {\c&H0024BFFA&\fscx110\fscy110\bord8}PLAYING.{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:27.08,0:00:27.89,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}EVERYONE{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}WAS {\c&H00E8EEF5&}RACING
+Dialogue: 0,0:00:27.89,0:00:28.19,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}EVERYONE {\c&H0024BFFA&\fscx110\fscy110\bord8}WAS{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}RACING
+Dialogue: 0,0:00:28.19,0:00:28.78,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}EVERYONE {\c&H00E8EEF5&}WAS {\c&H000B9EF5&\fscx110\fscy110\bord8}RACING{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:28.78,0:00:29.08,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}AND{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}TRYING
+Dialogue: 0,0:00:29.08,0:00:29.69,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}AND {\c&H0024BFFA&\fscx110\fscy110\bord8}TRYING{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:29.69,0:00:29.89,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}TO{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}WIN.
+Dialogue: 0,0:00:29.89,0:00:30.19,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}TO {\c&H000B9EF5&\fscx110\fscy110\bord8}WIN.{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:30.14,0:00:30.52,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}AND{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}SUDDENLY,
+Dialogue: 0,0:00:30.52,0:00:31.51,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}AND {\c&H000B9EF5&\fscx110\fscy110\bord8}SUDDENLY,{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:31.46,0:00:31.92,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}TYPING{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}WASN'T
+Dialogue: 0,0:00:31.92,0:00:32.29,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}TYPING {\c&H000B9EF5&\fscx110\fscy110\bord8}WASN'T{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:32.29,0:00:32.74,ShortsWord,,0,0,0,,{\c&H000B9EF5&\fscx110\fscy110\bord8}BORING{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}ANYMORE.
+Dialogue: 0,0:00:32.74,0:00:33.27,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}BORING {\c&H0024BFFA&\fscx110\fscy110\bord8}ANYMORE.{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:33.22,0:00:33.50,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}THAT{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}TAUGHT {\c&H00E8EEF5&}ME
+Dialogue: 0,0:00:33.50,0:00:33.91,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}THAT {\c&H0024BFFA&\fscx110\fscy110\bord8}TAUGHT{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}ME
+Dialogue: 0,0:00:33.91,0:00:34.05,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}THAT {\c&H00E8EEF5&}TAUGHT {\c&H0024BFFA&\fscx110\fscy110\bord8}ME{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:34.05,0:00:34.67,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}SOMETHING{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}IMPORTANT.
+Dialogue: 0,0:00:34.67,0:00:35.28,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}SOMETHING {\c&H000B9EF5&\fscx110\fscy110\bord8}IMPORTANT.{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:35.25,0:00:35.45,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}AI{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}DIDN'T {\c&H00E8EEF5&}GIVE
+Dialogue: 0,0:00:35.45,0:00:35.98,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}AI {\c&H0024BFFA&\fscx110\fscy110\bord8}DIDN'T{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}GIVE
+Dialogue: 0,0:00:35.98,0:00:36.39,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}AI {\c&H00E8EEF5&}DIDN'T {\c&H0024BFFA&\fscx110\fscy110\bord8}GIVE{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:36.39,0:00:36.60,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}ME{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}THE {\c&H00E8EEF5&}IDEA
+Dialogue: 0,0:00:36.60,0:00:36.92,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}ME {\c&H0024BFFA&\fscx110\fscy110\bord8}THE{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}IDEA
+Dialogue: 0,0:00:36.92,0:00:37.33,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}ME {\c&H00E8EEF5&}THE {\c&H000B9EF5&\fscx110\fscy110\bord8}IDEA{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:37.33,0:00:37.54,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}OR{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}MAKE
+Dialogue: 0,0:00:37.54,0:00:37.96,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}OR {\c&H0024BFFA&\fscx110\fscy110\bord8}MAKE{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:37.96,0:00:38.27,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}THE{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}DECISION.
+Dialogue: 0,0:00:38.27,0:00:39.10,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}THE {\c&H000B9EF5&\fscx110\fscy110\bord8}DECISION.{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:39.07,0:00:39.22,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}I{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}BROUGHT {\c&H00E8EEF5&}THE
+Dialogue: 0,0:00:39.22,0:00:39.77,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}I {\c&H0024BFFA&\fscx110\fscy110\bord8}BROUGHT{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}THE
+Dialogue: 0,0:00:39.77,0:00:40.00,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}I {\c&H00E8EEF5&}BROUGHT {\c&H0024BFFA&\fscx110\fscy110\bord8}THE{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:40.00,0:00:40.55,ShortsWord,,0,0,0,,{\c&H000B9EF5&\fscx110\fscy110\bord8}PROBLEM{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}AND
+Dialogue: 0,0:00:40.55,0:00:40.78,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}PROBLEM {\c&H0024BFFA&\fscx110\fscy110\bord8}AND{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:40.78,0:00:41.02,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}THE{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}PLAN.
+Dialogue: 0,0:00:41.02,0:00:41.32,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}THE {\c&H000B9EF5&\fscx110\fscy110\bord8}PLAN.{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:41.28,0:00:41.46,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}AI{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}JUST {\c&H00E8EEF5&}HELPED
+Dialogue: 0,0:00:41.46,0:00:41.82,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}AI {\c&H0024BFFA&\fscx110\fscy110\bord8}JUST{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}HELPED
+Dialogue: 0,0:00:41.82,0:00:42.36,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}AI {\c&H00E8EEF5&}JUST {\c&H000B9EF5&\fscx110\fscy110\bord8}HELPED{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:42.36,0:00:42.72,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}WITH{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}THE {\c&H00E8EEF5&}STEPS.
+Dialogue: 0,0:00:42.72,0:00:43.00,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}WITH {\c&H0024BFFA&\fscx110\fscy110\bord8}THE{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}STEPS.
+Dialogue: 0,0:00:43.00,0:00:43.45,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}WITH {\c&H00E8EEF5&}THE {\c&H000B9EF5&\fscx110\fscy110\bord8}STEPS.{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:43.40,0:00:43.72,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}AND{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}THE {\c&H00E8EEF5&}RESULT
+Dialogue: 0,0:00:43.72,0:00:44.03,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}AND {\c&H0024BFFA&\fscx110\fscy110\bord8}THE{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}RESULT
+Dialogue: 0,0:00:44.03,0:00:44.65,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}AND {\c&H00E8EEF5&}THE {\c&H000B9EF5&\fscx110\fscy110\bord8}RESULT{\c&H00FFFFFF&\fscx100\fscy100\bord7}
+Dialogue: 0,0:00:44.65,0:00:44.97,ShortsWord,,0,0,0,,{\c&H0024BFFA&\fscx110\fscy110\bord8}WAS{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}STILL {\c&H00E8EEF5&}MINE.
+Dialogue: 0,0:00:44.97,0:00:45.49,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}WAS {\c&H0024BFFA&\fscx110\fscy110\bord8}STILL{\c&H00FFFFFF&\fscx100\fscy100\bord7} {\c&H00E8EEF5&}MINE.
+Dialogue: 0,0:00:45.49,0:00:45.90,ShortsWord,,0,0,0,,{\c&H00E8EEF5&}WAS {\c&H00E8EEF5&}STILL {\c&H000B9EF5&\fscx110\fscy110\bord8}MINE.{\c&H00FFFFFF&\fscx100\fscy100\bord7}

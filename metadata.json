@@ -1,0 +1,6 @@
+{
+  "name": "ShortCut Studio",
+  "description": "YouTube Shorts post-production editor and delivery studio for Rafi's campus typing-race story — featuring surgical retake removal, broadcast -14 LUFS voice leveling, contextual B-roll overlays, dynamic word-by-word captions, and custom FFmpeg MP4 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
